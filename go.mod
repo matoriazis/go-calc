@@ -1,3 +1,3 @@
-module github.com/matoriazis/go-lib
+module github.com/matoriazis/go-calc
 
 go 1.20
